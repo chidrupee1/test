@@ -1,0 +1,2 @@
+cont catalog=[{id : 1,name :'product 1',price :20};
+{id:2,name:'product2'
